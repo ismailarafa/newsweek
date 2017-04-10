@@ -240,8 +240,7 @@ ul li:hover,
 
 .mexico {
   position: relative;
-  top: 102em;
-  width: 52%;
+  top: 105em;
   left: 3%;
 }
 
@@ -512,6 +511,29 @@ input[type="email"] {
   .bullet,
   .form {
     display: none;
+  }
+
+  .newslst {
+    position: relative;
+    top: 106em;
+    padding-bottom: 10%;
+    text-align: center;
+    display: block;
+    margin: 0;
+  }
+
+  .newslst p {
+    display: block;
+    margin: auto;
+  }
+
+  .scott-txt span::before {
+    left: 2%;
+  }
+
+  .mexico img {
+    margin: 0;
+    padding: 1%;
   }
 
   .scott,
